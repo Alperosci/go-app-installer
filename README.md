@@ -19,7 +19,7 @@ A simple Go program to move a file to the `/bin` directory. Useful for system ma
 ---
 
 ## Installation
-Get the executables zip file and extract
+Get the executables zip file and extract\n
 Then run the install.sh
 
 ## Building
