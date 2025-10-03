@@ -19,7 +19,8 @@ A simple Go program to move a file to the `/bin` directory. Useful for system ma
 ---
 
 ## Installation
-Get the executable and put to the /bin
+Get the executables zip file and extract
+Then run the install.sh
 
 ## Building
 
