@@ -22,7 +22,7 @@ A simple Go program to move a file to the `/bin` directory. Useful for system ma
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/<username>/installexecutable.git
+git clone https://github.com/Alperosci/installexecutable.git
 cd installexecutable
 ```
 
