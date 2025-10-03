@@ -46,7 +46,7 @@ sudo ./installexecutable <AppName>
 ## Example Usage
 
 ```bash
-sudo ./installexecutable myscript.sh
+installexecutable myapp
 ```
 
 This command moves the `myscript.sh` file to `/bin` and makes it executable system-wide.
