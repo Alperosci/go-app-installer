@@ -1,6 +1,4 @@
-# go-app-installer(installexecutable)
-
-### Made by Alperosci - v1
+# go-app-installer (installexecutable)
 
 A simple Go program to move a file to the `/bin` directory. Useful for system management and quick setup scripts.
 
