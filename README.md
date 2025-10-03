@@ -49,7 +49,3 @@ sudo ./installexecutable myscript.sh
 This command moves the `myscript.sh` file to `/bin` and makes it executable system-wide.
 
 ---
-
-## License
-
-MIT License
